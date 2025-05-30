@@ -1,3 +1,4 @@
+# Можно изменить на API CRM
 purchases = [
     {"item": "apple", "category": "fruit", "price": 1.2, "quantity": 10},
     {"item": "banana", "category": "fruit", "price": 0.5, "quantity": 5},
